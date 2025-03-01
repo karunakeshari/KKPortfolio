@@ -19,7 +19,7 @@ function Experience() {
           <li>Resolved 20+ production bugs as part of the Prod Issues pod, ensuring system stability.</li>
           <li>Used SonarQube for code quality analysis and successfully eliminated all code vulnerabilities.</li>
         </ul>
-        <h4 className="mt-4 font-semibold text-blue-600">ROP</h4>
+        <h3 className="mt-4 font-semibold text-blue-600">ROP</h3>
         <ul className="list-disc list-inside text-gray-700 space-y-2 mt-2">
           <li>Worked on ROP application that maintains a comprehensive record of data processing activities, ensuring regulatory compliance.</li>
           <li>Implemented an edit functionality for Data Processor, enabling seamless updates for 40 fields </li>
